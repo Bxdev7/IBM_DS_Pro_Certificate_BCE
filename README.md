@@ -11,7 +11,7 @@ This repository showcases the main themes and practical exercises addressed duri
 - **Data Collection & Web Scraping** with Pandas and BeautifulSoup  
 - **Data Wrangling & Parsing**
 - **Exploratory Data Analysis (EDA)** using SQL
-- **Data Visualization** with Seaborn, Matplotlib, Plotly, Folium, and Dash
+- **Data Visualization** with Seaborn, Matplotlib, Folium, and Plotly Dash
 - **Predictions & Machine Learning**
 
 ## Capstone Project
